@@ -1,6 +1,6 @@
 # Array.isArray
 
-[![Build Status](https://travis-ci.com/ungap/is-array.svg?branch=master)](https://travis-ci.com/ungap/is-array) [![Coverage Status](https://coveralls.io/repos/github/ungap/is-array/badge.svg?branch=master)](https://coveralls.io/github/ungap/is-array?branch=master) ![WebReflection status](https://offline.report/status/webreflection.svg)
+[![Build Status](https://travis-ci.com/ungap/is-array.svg?branch=master)](https://travis-ci.com/ungap/is-array) [![Coverage Status](https://coveralls.io/repos/github/ungap/is-array/badge.svg?branch=master)](https://coveralls.io/github/ungap/is-array?branch=master) [![Greenkeeper badge](https://badges.greenkeeper.io/ungap/is-array.svg)](https://greenkeeper.io/) ![WebReflection status](https://offline.report/status/webreflection.svg)
 
 An [Array.isArray](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray) polyfill for legacy browsers.
 
