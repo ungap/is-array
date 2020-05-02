@@ -1,1 +1,1 @@
-var isArray=Array.isArray||function(r){var a=r.call([]);return function(n){return r.call(n)===a}}({}.toString);
+var isArray=Array.isArray||function(a){var n=a.call([]);return function(r){return a.call(r)===n}}({}.toString);
